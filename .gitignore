@@ -1,0 +1,23 @@
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (in case used)
+env/
+venv/
+.venv/
+
+# Ignore large datasets and model files
+*.csv
+*.pkl
+*.h5
+*.joblib
+*.zip
+*.tar.gz
+
+# Ignore editor folders
+.vscode/
+.idea/
